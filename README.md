@@ -13,35 +13,10 @@ This lists various services that provide free access or credits towards API-base
 
 - [Free Providers](#free-providers)
   - [OpenRouter](#openrouter)
-  - [Google AI Studio](#google-ai-studio)
-  - [NVIDIA NIM](#nvidia-nim)
   - [Mistral (La Plateforme)](#mistral-la-plateforme)
   - [Mistral (Codestral)](#mistral-codestral)
-  - [HuggingFace Inference Providers](#huggingface-inference-providers)
-  - [Vercel AI Gateway](#vercel-ai-gateway)
   - [Cerebras](#cerebras)
   - [Groq](#groq)
-  - [Together (Free)](#together-free)
-  - [Cohere](#cohere)
-  - [GitHub Models](#github-models)
-  - [Cloudflare Workers AI](#cloudflare-workers-ai)
-  - [Google Cloud Vertex AI](#google-cloud-vertex-ai)
-- [Providers with trial credits](#providers-with-trial-credits)
-  - [Together](#together)
-  - [Fireworks](#fireworks)
-  - [Baseten](#baseten)
-  - [Nebius](#nebius)
-  - [Novita](#novita)
-  - [AI21](#ai21)
-  - [Upstage](#upstage)
-  - [NLP Cloud](#nlp-cloud)
-  - [Alibaba Cloud (International) Model Studio](#alibaba-cloud-international-model-studio)
-  - [Modal](#modal)
-  - [Inference.net](#inferencenet)
-  - [nCompass](#ncompass)
-  - [Hyperbolic](#hyperbolic)
-  - [SambaNova Cloud](#sambanova-cloud)
-  - [Scaleway Generative APIs](#scaleway-generative-apis)
 
 ## Free Providers
 
@@ -49,7 +24,7 @@ This lists various services that provide free access or credits towards API-base
 
 **Limits:**
 
-[20 requests/minute<br>50 requests/day<br>1000 requests/day with $10 lifetime topup](https://openrouter.ai/docs/api-reference/limits)
+[20 requests/minute<br>50 requests/day<br>1000 запросов в день если хотябы раз пополнить на 10$](https://openrouter.ai/docs/api-reference/limits)
 
 Models share a common quota.
 
@@ -183,27 +158,8 @@ Routes to various supported providers.
 
 ### [Groq](https://console.groq.com)
 
-<table><thead><tr><th>Model Name</th><th>Model Limits</th></tr></thead><tbody>
-<tr><td>Allam 2 7B</td><td>7,000 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>DeepSeek R1 Distill Llama 70B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>Gemma 2 9B Instruct</td><td>14,400 requests/day<br>15,000 tokens/minute</td></tr>
-<tr><td>Llama 3.1 8B</td><td>14,400 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>Llama 3.3 70B</td><td>1,000 requests/day<br>12,000 tokens/minute</td></tr>
-<tr><td>Llama 4 Maverick 17B 128E Instruct</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>Llama 4 Scout Instruct</td><td>1,000 requests/day<br>30,000 tokens/minute</td></tr>
-<tr><td>Whisper Large v3</td><td>7,200 audio-seconds/minute<br>2,000 requests/day</td></tr>
-<tr><td>Whisper Large v3 Turbo</td><td>7,200 audio-seconds/minute<br>2,000 requests/day</td></tr>
-<tr><td>groq/compound</td><td>250 requests/day<br>70,000 tokens/minute</td></tr>
-<tr><td>groq/compound-mini</td><td>250 requests/day<br>70,000 tokens/minute</td></tr>
-<tr><td>meta-llama/llama-guard-4-12b</td><td>14,400 requests/day<br>15,000 tokens/minute</td></tr>
-<tr><td>meta-llama/llama-prompt-guard-2-22m</td><td></td></tr>
-<tr><td>meta-llama/llama-prompt-guard-2-86m</td><td></td></tr>
-<tr><td>moonshotai/kimi-k2-instruct</td><td>1,000 requests/day<br>10,000 tokens/minute</td></tr>
-<tr><td>moonshotai/kimi-k2-instruct-0905</td><td>1,000 requests/day<br>10,000 tokens/minute</td></tr>
-<tr><td>openai/gpt-oss-120b</td><td>1,000 requests/day<br>8,000 tokens/minute</td></tr>
-<tr><td>openai/gpt-oss-20b</td><td>1,000 requests/day<br>8,000 tokens/minute</td></tr>
-<tr><td>qwen/qwen3-32b</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
-</tbody></table>
+<img width="754" height="873" alt="{9F93DD19-B996-4745-B545-971234B4264F}" src="https://github.com/user-attachments/assets/db9cf453-423d-4ce1-86c1-ea04a1eb7733" />
+
 
 ### [Together (Free)](https://together.ai)
 
